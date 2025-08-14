@@ -16,13 +16,8 @@ A responsive, modern Netflix landing page clone built using **HTML**, **CSS**, a
 
 ## 🚀 How to Run Locally
 
-### Option 1: Using Live Server (Recommended)
+###  Using Live Server (Recommended)
 1. Open the project folder in [VS Code](https://code.visualstudio.com/)
 2. Install the **Live Server** extension (by Ritwick Dey)
 3. Right-click `index.html` → Click **"Open with Live Server"**
 
-### Option 2: Open Directly
-- Double-click `index.html` to open it in your browser  
-⚠️ *Some features may not work properly using `file:///` paths due to browser restrictions.*
-
----
