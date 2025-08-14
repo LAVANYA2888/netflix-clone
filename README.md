@@ -2,8 +2,6 @@
 
 A responsive, modern Netflix landing page clone built using **HTML**, **CSS**, and **JavaScript** for frontend development practice
 
-DEMO LINK(https://youtu.be/_Huc836-N7U)
-
 ---
 
 ## ✨ Features
